@@ -309,6 +309,10 @@ def get_data():
 				},
 				{
 					"type": "doctype",
+					"name": "Work Type",
+				},
+				{
+					"type": "doctype",
 					"name": "Branch",
 				},
 				{
